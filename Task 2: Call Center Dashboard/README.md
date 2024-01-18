@@ -6,12 +6,12 @@
 
 
 ## Table of contents
-- [Problem Statement](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Problem-Statement)
-- [Data Preparation](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Visualization)
-- [Analysis and Insights](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Analysis-and-Insights)
-- [Shareable Link](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Shareable-Link)
+- [Problem Statement](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard#problem-statement)
+- [Data Preparation](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard#data-preparation)
+- [Data Modeling](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard#data-modeling)
+- [Data Visualization](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard#data-visualization)
+- [Analysis and Insights](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard#analysis-and-insights)
+
 
 
 # Problem Statement
