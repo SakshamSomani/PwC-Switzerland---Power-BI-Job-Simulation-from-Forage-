@@ -87,9 +87,6 @@ For the dataset, we want to transform the satisfaction rating from number to tex
 After the dataset was cleaned and transformed, it was ready to be modeled, but the dataset just included one table, so the Data Modeling is nothing much to modify
 
 # Data Visualization
-![dashboard github](https://user-images.githubusercontent.com/100661121/233076182-dedd0efc-5704-4886-b4d0-b80a841e9773.png)
-
-
 Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint, the dashboard includes:
 
 - One main dashboard
