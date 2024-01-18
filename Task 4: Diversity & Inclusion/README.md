@@ -198,13 +198,5 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 - There is a significant gender imbalance in the distribution of new hires and promotions for executive positions, despite the fact that these female directors perform better.
 - A potential factor contributing to the slow progress in achieving gender balance at the executive management level is that the performance evaluations for promotion at management levels may not be entirely objective and honest. This could result in qualified female candidates being overlooked for executive positions, despite their superior performance compared to their male counterparts.
 
-
-# Shareable Link
-
-You can interact and have fun with the dashboard here:
-
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2Y2YzE3ZGQtZTliNi00NzVhLTkxNTktMDQ2YTAzNTY3OWMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true) | [novyPro](https://www.novypro.com/project/diversity--inclusion-|-pwc-virtual-case-experience)
-
-
 ### Huge thanks to you for joining this creation journey with me.  Hope you all are doing great! :pray::pray::pray::relaxed:
 
