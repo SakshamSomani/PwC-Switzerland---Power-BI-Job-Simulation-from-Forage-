@@ -2,12 +2,12 @@
 
 
 ## Table of contents
-- [Problem Statement](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#problem-statement))
-- [Data Sourcing]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Data-Sourcing](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-sourcing))
-- [Data Preparation]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Data-Preparation](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-preparation))
-- [Data Modeling]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Data-Modeling](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-modeling))
-- [Data Visualization]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Data-Visualization](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-visualization))
-- [Analysis and Insights]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Analysis-and-Insights](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#analysis-and-insights))
+- [Problem Statement](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#problem-statement)
+- [Data Sourcing]((https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-sourcing))
+- [Data Preparation]((https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-preparation))
+- [Data Modeling]((https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-modeling))
+- [Data Visualization]((https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#data-visualization))
+- [Analysis and Insights]((https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#analysis-and-insights))
 
 # Problem Statement
 
