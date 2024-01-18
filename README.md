@@ -19,9 +19,9 @@ Your manager, Giulia, will guide you through your upskilling journey in PowerBI.
 
 
 This virtual experience program consists of 3 tasks:                    
-- [**Task 1**](https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard): Create Call Centre Dashboard - visualizing customer and agent behavior.
-- [**Task 2**](https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%203:%20Customer%20Retention): Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
-- [**Task 3**](https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20%26%20Inclusion): Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
+- [**Task 2**]([https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%202%3A%20Call%20Center%20Dashboard)): Create Call Centre Dashboard - visualizing customer and agent behavior.
+- [**Task 3**]([https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%203:%20Customer%20Retention](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%203%3A%20Customer%20Retension)): Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
+- [**Task 4**]([https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20%26%20Inclusion](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion)): Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
 <br>
 
