@@ -1,7 +1,5 @@
 # Diversity & Inclusion | PWC Virtual Case Experience
 
-![Cover](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/assets/100661121/28f2beff-1a39-43a9-afe4-a729035b70ad)
-
 
 ## Table of contents
 - [Problem Statement]([https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%204:%20Diversity%20&%20Inclusion#Problem-Statement](https://github.com/SakshamSomani/PwC-Switzerland---Power-BI-Job-Simulation-from-Forage-/tree/main/Task%204%3A%20Diversity%20%26%20Inclusion#problem-statement))
