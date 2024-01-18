@@ -196,10 +196,6 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 - The average customer satisfaction is at an acceptable rate with 3.40, mainly comes from “Average” (30.04%) and “Good” (29.11%) rating
 - The correlation between call answered and call resolved is strongly positive which resulted in a increase in the customer satisfaction rate
 
-# Shareable Link
-You can interact and have fun with the dashboard here:
-
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZmNiNWNiZGMtZTM4MS00ZDI3LTlhNTUtODMwOTZmZDExOGI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [novyPro](https://www.novypro.com/project/baokhanhdinhtr)
 
 ### Huge thanks to you for joining this creative journey with me.  Hope you all are doing great! :pray::pray::pray::relaxed:
 
