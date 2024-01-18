@@ -91,10 +91,6 @@ After the dataset was cleaned and transformed, it was ready to be modeled. Becau
 - `Measure` was created to store all DAX measures for ensuring the organization
 
 
-![data modeling](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/assets/100661121/6fc48c03-f76c-4e32-9cc6-7f7768bbdae1)
-
-
-
 # Data Visualization
 
 Data visualization for the dataset was done in Microsoft Power BI Desktop, the dashboard includes three main dashboards and three tooltip pages:
@@ -102,10 +98,6 @@ Data visualization for the dataset was done in Microsoft Power BI Desktop, the d
 - HR Overview
 - Performance
 - Hiring & Promotion
-
-![detail](https://github.com/calmk/Diversity-and-Inclusion-PWC-Virtual-Case-Experience/assets/100661121/7d865f96-024a-4e87-8d06-e4b7dabe76b6)
-
-
 
 
 ### Dashboard Type
